@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.show{
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.show > h3 {
+    border: 1px solid black;
+}
