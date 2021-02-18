@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Reddit/static/css/main.e6dd72a7.chunk.css",
+    "main.js": "/React-Reddit/static/js/main.5cba895b.chunk.js",
+    "main.js.map": "/React-Reddit/static/js/main.5cba895b.chunk.js.map",
+    "runtime-main.js": "/React-Reddit/static/js/runtime-main.7d0be83d.js",
+    "runtime-main.js.map": "/React-Reddit/static/js/runtime-main.7d0be83d.js.map",
+    "static/js/2.68469429.chunk.js": "/React-Reddit/static/js/2.68469429.chunk.js",
+    "static/js/2.68469429.chunk.js.map": "/React-Reddit/static/js/2.68469429.chunk.js.map",
+    "index.html": "/React-Reddit/index.html",
+    "static/css/main.e6dd72a7.chunk.css.map": "/React-Reddit/static/css/main.e6dd72a7.chunk.css.map",
+    "static/js/2.68469429.chunk.js.LICENSE.txt": "/React-Reddit/static/js/2.68469429.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d0be83d.js",
+    "static/js/2.68469429.chunk.js",
+    "static/css/main.e6dd72a7.chunk.css",
+    "static/js/main.5cba895b.chunk.js"
+  ]
+}
